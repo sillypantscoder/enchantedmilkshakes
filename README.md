@@ -15,7 +15,7 @@ You're such a messy eater. You get crumbs whenever you eat another food item. Ni
 
 ### Sausage
 
-Sausages are a food item that can be crafted into hot dogs. Sausages are currently uncraftable.
+Sausages are a food item that can be crafted into hot dogs.
 
 ### Sliced Bread
 
@@ -67,7 +67,7 @@ Ice cream sandwiches are crafted from 2 sliced bread, a chocolate bar, and an ic
 
 ### Bob
 
-Bob is a boss mob that attacks you with enchanted milkshakes! He looks like a villager but is black and white. He attacks players, and only spawn naturally in the outer End islands. (A Bob Spawn Egg is available.)
+Bob is a boss mob that attacks you with enchanted milkshakes! He looks like a villager but is black and white. He attacks players and parrots, and only spawn naturally in the outer End islands and in swamps. (A Bob Spawn Egg is available.)
 
 ### Kahoot Disc
 
