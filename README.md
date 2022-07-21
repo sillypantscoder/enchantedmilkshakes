@@ -15,7 +15,7 @@ You're such a messy eater. You get crumbs whenever you eat another food item. Ni
 
 ### Sausage
 
-Sausages are a food item that can be crafted into hot dogs.
+Sausages are a food item that can be crafted into hot dogs. You can craft then with three cooked porkchop.
 
 ### Sliced Bread
 
@@ -75,4 +75,16 @@ A new music disc: The Kahoot Lobby Music!
 
 ### ULTIMATE SANDWICH
 
-The ULTIMATE SANDWICH is an amazing item. Eating it gives you Absorption, Regeneration, Fire Resistance, and Resistance, plus it has a 10% chance to duplicate each item in your inventory. But it's hard to craft: You need 5 ice cream sandwiches, plus two normal sandwiches, to craft it. Combining one with a chorus fruit in the crafting table gives you an elytra!
+The ULTIMATE SANDWICH is an amazing item. Eating it gives you Absorption, Regeneration, Fire Resistance, Resistance, and 5 experience levels, plus it has a 10% chance to duplicate each item in your inventory. But it's hard to craft: You need 5 ice cream sandwiches, plus two normal sandwiches, to craft it. Combining one with a chorus fruit in the crafting table gives you an elytra!
+
+### Mud
+
+Mud is a fluid. It is brown, and flows slowly.
+
+### Good Things
+
+A Good Thing looks like a chicken, but it has red spots. Good Things attack bad things with Enchanted Milkshakes.
+
+### Weird Biome
+
+The Weird Biome is weird. It's a desert-like biome that has lakes of mud, happy faces, "ore towers", shipwrecks, fossils, and ocean ruins. It generates only in the Overworld, but it contains bastion remnants and end cities. Have fun! :P
